@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-! [Screenshot](https://github.com/YaswanthVarma362/order-summary-challenge/blob/main/images/order-summary.png?raw=true)
+![](images/order-summary.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/YaswanthVarma362/order-summary-challenge](https://github.com/YaswanthVarma362/order-summary-challenge)
+- Live Site URL: [https://yaswanthvarma362.github.io/order-summary-challenge/](https://yaswanthvarma362.github.io/order-summary-challenge/)
 
 ### Built with
 
@@ -53,4 +53,4 @@ I found it difficult doing on my own, but figured it out by checking some docs. 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/YaswanthVarma362)
+- Frontend Mentor - [@YaswanthVarma](https://www.frontendmentor.io/profile/YaswanthVarma362)
