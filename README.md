@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-! [Screenshot](https://github.com/YaswanthVarma362/order-summary-challenge/blob/main/images/order-summary.png)
+! [Screenshot](https://github.com/YaswanthVarma362/order-summary-challenge/blob/main/images/order-summary.png?raw=true)
 
 ### Links
 
