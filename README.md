@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-[images/order_summary.png](images/order_summary.png)
+! [images/order_summary.png](images/order_summary.png)
 
 ### Links
 
